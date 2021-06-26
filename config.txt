@@ -1,0 +1,8 @@
+sourceOrg=devOne
+destinationOrg=devThree
+package.xmlLocationToDeploy=metadata\package.xml
+folderLocationForFetchedZip=metadata
+waitTimeInMinutes=10
+testLevel=RunSpecifiedTests
+runTests=AccountProcessorTest
+folderLocationToUndeploy=metadata\destructive
